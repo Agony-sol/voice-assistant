@@ -46,8 +46,8 @@ pip install sounddevice numpy faster-whisper ollama yt-dlp duckduckgo-search tra
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/eris-voice-assistant.git
-   cd eris-voice-assistant
+   git clone https://github.com/Agony-sol/voice-assistant.git
+   cd voice-assistant
    ```
 
 2. **Configure Whisper Model:**
